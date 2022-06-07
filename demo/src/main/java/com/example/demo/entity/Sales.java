@@ -1,7 +1,7 @@
 package com.example.demo.entity;
 
 public class Sales {
-
+//by jag
 	private int id;
 	private Customer customer;
 	private Product product;
